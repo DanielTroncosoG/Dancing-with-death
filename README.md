@@ -1,3 +1,7 @@
+# Dancing With Death
+
+Calendario para reservar citas con la muerte Para que se corra escribir en la terminal npm i npm install react-big-calendar npm intall react-datepicker
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
